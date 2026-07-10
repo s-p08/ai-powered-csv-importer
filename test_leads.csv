@@ -1,0 +1,5 @@
+Date Created,Client Name,Contact Email,Mobile Number,Company Name,City,State,Status,Lead Source,Notes
+2026-05-13 14:20:48,John Doe,john.doe@example.com,+919876543210,GrowEasy,Mumbai,Maharashtra,GOOD_LEAD_FOLLOW_UP,eden_park,Client is asking to reschedule demo
+2026-05-13 14:25:30,Sarah Johnson,sarah.johnson@example.com; alt@example.com,+15551234567; +15559876543,Tech Solutions,Bangalore,Karnataka,DID_NOT_CONNECT,meridian_tower,Person was busy.
+2026-05-13 14:30:15,Invalid Lead Record,,,Startup Inc,Delhi,Delhi,BAD_LEAD,,No email and no phone number here
+2026-05-13 14:35:22,Priya Singh,priya.singh@example.com,+919876543213,Enterprise Corp,Pune,Maharashtra,SALE_DONE,varah_swamy,Deal closed onboarding in progress
