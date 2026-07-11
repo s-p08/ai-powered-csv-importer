@@ -18,6 +18,10 @@ app.use(cors({
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+app.get("/", (req: Request, res: Response) => {
+  res.status(200).send("GrowEasy CRM Importer API is running.");
+});
+
 app.get("/api/health", (req: Request, res: Response) => {
   res.status(200).json({ status: "ok", message: "Server is healthy" });
 });
