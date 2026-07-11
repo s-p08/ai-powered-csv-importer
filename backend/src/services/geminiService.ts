@@ -63,8 +63,7 @@ const responseSchema = {
           },
           crm_note: { type: "STRING" },
           data_source: {
-            type: "STRING",
-            enum: ["leads_on_demand", "meridian_tower", "eden_park", "varah_swamy", "sarjapur_plots", ""]
+            type: "STRING"
           },
           possession_time: { type: "STRING" },
           description: { type: "STRING" }
